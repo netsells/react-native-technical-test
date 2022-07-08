@@ -1,4 +1,4 @@
-# react-native-technical-test
+# Netsells React Native Technical Test
 
 We would like you to complete a small app that lets you view reddit posts from [r/reactnative](https://www.reddit.com/r/reactnative/) and display some information about it.
 
